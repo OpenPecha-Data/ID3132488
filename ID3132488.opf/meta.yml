@@ -1,0 +1,16 @@
+id: ID3132488
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:18:55.388506
+last_modified: 2023-02-08 15:18:55.388620
+source_metadata:
+  title: Pratyutpannabuddhasamādhisūtra
+  language: en
+bases:
+  D6DF:
+    base_file: D6DF.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

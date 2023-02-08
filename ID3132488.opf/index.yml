@@ -1,0 +1,27 @@
+id: c8d5f2d3c4134dbdb3e0d0baf7534647
+annotation_type: index
+revision: '00001'
+annotations:
+  1cead5cb44314b98b28c80d393d6ff23:
+    base: D6DF.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 198
+    - title: Introduction
+      span:
+        start: 199
+        end: 274
+    - title: §Ch 1
+      span:
+        start: 275
+        end: 24395
+    - title: §Ch 2
+      span:
+        start: 24396
+        end: 35510
+    - title: §Ch 3
+      span:
+        start: 35511
+        end: 51912
